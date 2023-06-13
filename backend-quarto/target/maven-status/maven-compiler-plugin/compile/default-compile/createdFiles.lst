@@ -1,0 +1,5 @@
+br\unibh\sdm\backend_quarto\negocio\QuartoService.class
+br\unibh\sdm\backend_quarto\Application.class
+br\unibh\sdm\backend_quarto\rest\QuartoController.class
+br\unibh\sdm\backend_quarto\entidades\Quarto.class
+br\unibh\sdm\backend_quarto\persistencia\QuartoRepository.class
